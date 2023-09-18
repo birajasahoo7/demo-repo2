@@ -1,1 +1,2 @@
 This is a apple
+This is a new line for the feature1 branch only
